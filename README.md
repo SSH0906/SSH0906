@@ -1,6 +1,10 @@
-### Hi there 👋
+## Sohyun Shin
 
-*Test Text*
+I'm a third-year student in SeoulTech University, majoring computer science.
+
+I'm still studying a lot. Especially game-related studies, including *game programming.*
+
+Hope to finish this semester without any problem...😇
 
 <!--
 **SSH0906/SSH0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
